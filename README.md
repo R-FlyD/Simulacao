@@ -5,10 +5,8 @@
 # Instalação V-REP 
   1. Baixe o arquivo [aqui](https://www.coppeliarobotics.com).
   2. Descompacte o arquivo.
-  3. Na pasta descompactada execute o seguinte comando:
-    ``` 
-    <./coppeliaSim> 
-    ``` 
+  3. Na pasta descompactada execute o seguinte comando: 
+    > ./coppeliaSim 
 
 # Utilização
   Utilizando os modelos oferecidos no mesmo foi criada a cena da simulação.
