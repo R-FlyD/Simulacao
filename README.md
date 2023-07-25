@@ -13,7 +13,7 @@
 # Utilização
   Utilizando os modelos oferecidos no mesmo foi criada a cena da simulação.
 
-  ![V-REP](https://imgur.com/a/qyG2kBZ)
+![V-REP](https://imgur.com/a/qyG2kBZ)
 
   Depois de montada a cena foram criados alguns scripts para que a simulação funcionasse como deveria. Sendo eles:
 - proximitySensor.lua
@@ -26,7 +26,7 @@
   - Utilizado pelo target do drone.
   - Responsável por percorrer o caminho criado.
   
-  ![Hierarquia dos scripts](https://imgur.com/a/PfDqS6l)
+![Hierarquia dos scripts](https://imgur.com/a/PfDqS6l)
 
 #
   Versão utilizada: Coppeliasim 4.5.1
