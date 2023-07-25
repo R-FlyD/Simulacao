@@ -15,22 +15,23 @@
 
 <img src="sim.png" alt="Exemplo imagem">
 
-Depois de montada a cena foram criados alguns scripts para que a simulação funcionasse como deveria. Sendo eles:
+Depois de montada a cena foram criados alguns scripts para que a simulação funcionasse como deveria.
 
 <img src="hierarquia.png" alt="imagem" aling="middle">
 
+
+Sendo eles:
 - quadcopter.lua
   - Utilizado pelo quadcopter.
   - Responsável por toda dinâmica do drone.
 
-- proximitySensor.lua
-  - Utilizado pelo sensor de proximidade que foi adicionado ao drone
-  - Responsável por detectar objetos até 9cm de distância.
-  
 - target.lua
   - Utilizado pelo target do drone.
   - Responsável por percorrer o caminho criado.
 
+- proximitySensor.lua
+  - Utilizado pelo sensor de proximidade que foi adicionado ao drone
+  - Responsável por detectar objetos até 9cm de distância.
 
 #
   Versão utilizada: Coppeliasim 4.5.1
