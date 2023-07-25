@@ -2,11 +2,13 @@
 <!-- ## Descrição -->
   Simulação feita com objetivo de demonstrar como seria o funcionamento do projeto proposto.
 
-# Instalação V-REP 
+# Instalação Coppeliasim 
   1. Baixe o arquivo [aqui](https://www.coppeliarobotics.com).
   2. Descompacte o arquivo.
   3. Na pasta descompactada execute o seguinte comando: 
-    > ./coppeliaSim 
+```
+./coppeliaSim
+```
 
 # Utilização
   Utilizando os modelos oferecidos no mesmo foi criada a cena da simulação.
